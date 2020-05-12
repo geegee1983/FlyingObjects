@@ -1,0 +1,3 @@
+SpaceRocket sr1 = new SpaceRocket("Moon Rocket", 3);
+sr1.rechargePower();
+sr1.runExperiments();
